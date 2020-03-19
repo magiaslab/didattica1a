@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Compiti assegnati del giorno 19 Marzo 2020
+subtitle: Compiti da registro elettronico
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
