@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compiti assegnati del giorno 19 Marzo 2020
+title: Compiti assegnati del giorno 16 Marzo 2020
 subtitle: Compiti da registro elettronico
 comments: true
 ---
