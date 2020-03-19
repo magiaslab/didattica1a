@@ -22,6 +22,8 @@ Siate sinceri, non è assolutamente mia intenzione sovraccaricarvi di un compito
 
 Solitamente sono sempre partita dalle conoscenze pregresse di ciascun bambino: esempio.... Secondo voi, chi o cosa sono gli esseri viventi?....e i non viventi? (ascoltiamo le risposte di tutti) ...Chi sono quelle persone che li hanno classificati come viventi o non viventi?.........(saremo poi arrivati agli scienziati...) ...Cosa fanno gli scienziati? ....e la scienza, cosa studia? E' necessario che i bambini acquisiscano la differenza tra due grandi gruppi: gli esseri viventi e non viventi. Grazie alle esperienze dirette e alle osservazioni tutti potranno arrivare ad intuire che gli esseri viventi hanno alcune caratteristiche veramente uniche che li contraddistinguono da tutti gli altri materiali e oggetti. Grazie a queste caratteristiche, i bambini potranno arrivare a classificare tutto ciò che vedono accanto a sé. Nella sezione Materiale didattico troverete i file caricati da far copiare sul quaderno di scienze.
 
+## Allegati
+
 [pagina 1](/img/1.JPG)
 [pagina 2](/img/2.JPG)
 [pagina 3](/img/3.JPG)
