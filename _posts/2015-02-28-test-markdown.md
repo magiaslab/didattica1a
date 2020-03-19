@@ -12,5 +12,5 @@ comments: true
 
 La maestra ha caricato un video 
 
-![CIA CIO CIU](https://youtu.be/2fRDJM6ZzSE)
+[CIA CIO CIU](https://youtu.be/2fRDJM6ZzSE)
 
