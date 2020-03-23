@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compiti di Italiano e Religione del 23 Marzo 2020
+title: Compiti del giorno 23 Marzo 2020
 subtitle: Compiti da registro elettronico
 comments: true
 ---
