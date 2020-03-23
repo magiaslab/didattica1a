@@ -16,11 +16,11 @@ STORIA: riepilogo sulle parole del tempo,le parti della giornata
 
 STORIA: pag.142-143 ITALIANO
 
-STORIA: LIBRO DISCIPLINE: pag.142-143 ITALIANO:
-LIBRO LETTURE E GRAMMATICA pag. 22/23/36/37
-QUADERNO DEL CORSIVO pag.9 
-LIBRO METODO: pag.170/171 
-ATTIVITA’ SUL QUADERNO: leggi la storia di Rudi e segui le indicazioni ( la storia di Rudi è condivisa nel materiale didattico con data 23/03/2020).
+* STORIA: LIBRO DISCIPLINE: pag.142-143 ITALIANO:
+* LIBRO LETTURE E GRAMMATICA pag. 22/23/36/37
+* QUADERNO DEL CORSIVO pag.9 
+* LIBRO METODO: pag.170/171 
+* ATTIVITA’ SUL QUADERNO: leggi la storia di Rudi e segui le indicazioni ( la storia di Rudi è condivisa nel materiale didattico con data 23/03/2020).
 
 ### Allegati
 
