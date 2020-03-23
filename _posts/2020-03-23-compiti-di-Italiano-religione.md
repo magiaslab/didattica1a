@@ -14,8 +14,6 @@ Dalla Maestra:
 
 STORIA: riepilogo sulle parole del tempo,le parti della giornata
 
-STORIA: pag.142-143 ITALIANO
-
 * STORIA: LIBRO DISCIPLINE: pag.142-143 ITALIANO:
 * LIBRO LETTURE E GRAMMATICA pag. 22/23/36/37
 * QUADERNO DEL CORSIVO pag.9 
@@ -32,10 +30,10 @@ Nella sezione Materiale didattico, ho aggiunto 3 pagine da fare eseguire sul qua
 
 ### Allegati
 
-[pagina 8](/img/lezioni/19marzo/8.JPG)
-[pagina 9](/img/lezioni/19marzo/9.JPG)
-[pagina 10](/img/lezioni/19marzo/10.JPG)
-[pagina 11](/img/lezioni/19marzo/11-A.JPG)
+* [pagina 8](/img/lezioni/19marzo/8.JPG)
+* [pagina 9](/img/lezioni/19marzo/9.JPG)
+* [pagina 10](/img/lezioni/19marzo/10.JPG)
+* [pagina 11](/img/lezioni/19marzo/11-A.JPG)
 
 
 ## Religione
